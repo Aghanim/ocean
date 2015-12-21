@@ -1,0 +1,18 @@
+/*
+Theme Name: Ocean Plaza + WooCommerce v1.6
+Theme URI: http://gogetthemes.com
+Description: Great theme for your company or shop
+Author: GoGetThemes
+Author URI: http://gogetthemes.com/
+Version: 1.6
+License URI: http://gogetthemes.com/
+*/
+
+@import "zocial.css";
+@import "font-awesome.min.css";
+@import 'bootstrap.css';
+@import "magnific-popup.css";
+@import "superfish.css";
+@import "main-style.css";
+@import "additional-style.css";
+@import "custom-style.css";
